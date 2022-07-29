@@ -1,4 +1,4 @@
-FROM openjdk:11
+FROM quay.io/sdase/openjdk-runtime
 
 EXPOSE 8080
 
